@@ -23,7 +23,7 @@ ptt-crawler-project/
 ├── ptt_scraper.ipynb             # PTT 爬蟲主程式
 ├── keyword_analysis.ipynb        # 關鍵詞分析
 ├── visualize.ipynb               # 圖像視覺化
-├── NotoSansTC-Regular.otf        # 中文字型（用於詞雲）
+├── PingFang.ttc                  # 中文字型（用於詞雲）
 ├── README.md                     # 本說明文件
 └── data/
     ├── articles.csv              # 爬蟲結果 CSV
